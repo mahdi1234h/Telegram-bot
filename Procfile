@@ -1,0 +1,1 @@
+الويب: python3 main.py
